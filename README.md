@@ -18,7 +18,7 @@ A simple project to practice CSS flex box. This project is a simple webpage with
 
 ## Live Demo
 
-[Gallery](https://eddking-qs.github.io/CSS_Mini-Projects_Gallery/)
+[Gallery](https://eddking-qs.github.io/CSS-Mini_Projects-Gallery/)
 
 ## Disclaimer
 
