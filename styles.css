@@ -37,13 +37,18 @@ body {
     border-radius: 10px;
 }
 
-.gallery::after {
-    content: '';
-    width: 350px;
+.gallery img:hover {
+    transform: scale(1.1);
+    transition: transform 0.5s;
 }
 
 .background {
     background-image: url(images/bg1.jpg);
     background-size: cover;
     background-attachment: fixed;
+}
+
+a {
+    text-decoration: none;
+    color: #fdb347;
 }
